@@ -1,9 +1,9 @@
-.nav-down{
-margin-top:35px;
+.nav-down {
+  margin-top: 35px;
 }
 
-#home{
-margin-top:75px;
+#home {
+  margin-top: 75px;
 }
 
 body {
@@ -321,7 +321,7 @@ header {
 
 #pagehome {
   text-align: center;
-  color: #ffffff;
+  color: #280241;
   font-weight: bold;
 
   height: 30px;
@@ -666,7 +666,7 @@ input:active {
   margin-left: -20px;
 }
 #home a {
-  color: #5c9403;
+  color: #530394;
   text-decoration: none;
 }
 #tg,
