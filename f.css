@@ -391,7 +391,7 @@ input:active {
 #mn a,
 #msc a {
   text-decoration: none;
-  color: #246703;
+  color: #383e56;
   font-size: 18px;
 }
 #ok {
@@ -569,7 +569,7 @@ input:active {
   border-radius: 15px;
   border: 1px solid #ddd; /* Add a border to all links */
   margin-top: -1px; /* Prevent double borders */
-  background: #ffeb9e;
+  background: #95e1d3;
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 12px; /* Increase the font-size */
@@ -598,7 +598,7 @@ input:active {
   border-radius: 15px;
   border: 1px solid #ddd; /* Add a border to all links */
   margin-top: -1px; /* Prevent double borders */
-  background: #ffeb9e;
+  background: #95e1d3;
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 12px; /* Increase the font-size */
@@ -1195,5 +1195,5 @@ input:active {
   padding-right: 5px;
   position: left;
   float: left;
-  background: #509020;
+  background: #4a47a3;
 }
